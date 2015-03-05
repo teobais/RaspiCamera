@@ -6,4 +6,7 @@ This sample project simulates the desired behavior with a simple WebView and dir
 
 Note: The youtube video is used as a sample content of the WebView (as this will be replaced from the raspi camera's server streaming url). Thus, there isn't any actual exception handling implementation, according to the youtube video.
 
+This is a sample screenshot of the app:
+<p align="center">
 ![screenshot](/app_screenshots/raspi_cam_screenshot.png)
+</p>
