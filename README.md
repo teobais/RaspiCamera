@@ -8,5 +8,6 @@ Note: The youtube video is used as a sample content of the WebView (as this will
 
 This is a sample screenshot of the app:
 <p align="center">
-![screenshot](/app_screenshots/raspi_cam_screenshot.png)
+  <img  src="/app_screenshots/raspi_cam_screenshot.png" alt="screenshot" />
 </p>
+
